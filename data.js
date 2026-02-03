@@ -212,5 +212,40 @@ const LESSONS = {
       { ru: "Не отставать", en: "Keep up with" },
       { ru: "Быть ответственным за", en: "Be responsible for" }
     ]
+  },
+  SurvivalAndTrauma: {
+    name: 'Выживание 🦴',
+    description: 'Части тела, Травмы, Выживание',
+    timestamp: 9,
+    items: [
+      { ru: "Вопреки всему", en: "Against all odds" },
+      { ru: "История выживания", en: "Tale of survival" },
+      { ru: "Мучительное решение", en: "Agonising decision" },
+      { ru: "Смелый, непреодолимый вызов", en: "Bold, irresistible challenge" },
+      { ru: "Достичь вершины", en: "Reach the summit" },
+      { ru: "Быть искалеченным", en: "Be crippled" },
+      { ru: "В полной темноте", en: "In the pitch black" },
+      { ru: "Обрыв / Скала", en: "Cliff" },
+      { ru: "Быть обмороженным", en: "Be frostbitten" },
+      { ru: "Чудесным образом", en: "Miraculously" },
+      { ru: "Покорять", en: "Conquer" },
+      { ru: "Проявление силы воли", en: "Display of willpower" },
+      { ru: "Споткнуться", en: "Trip over" },
+      { ru: "Синяк / Ушиб", en: "Bruise" },
+      { ru: "Голень", en: "Shin" },
+      { ru: "Перелом", en: "Fracture" },
+      { ru: "Ключица", en: "Collarbone" },
+      { ru: "Бедро", en: "Hip" },
+      { ru: "Растяжение связок", en: "Sprain" },
+      { ru: "Лодыжка", en: "Ankle" },
+      { ru: "Запястье", en: "Wrist" },
+      { ru: "Затекший / Тугой", en: "Stiff" },
+      { ru: "Царапина", en: "Scratch" },
+      { ru: "Опухший", en: "Swollen" },
+      { ru: "Предположительно", en: "Supposedly" },
+      { ru: "Подниматься", en: "Ascend" },
+      { ru: "Спуск", en: "Descent" },
+      { ru: "Сделать попытку", en: "Make an attempt" }
+    ]
   }
 };
