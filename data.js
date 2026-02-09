@@ -248,5 +248,47 @@ const LESSONS = {
       { ru: "Спуск", en: "Descent" },
       { ru: "Сделать попытку", en: "Make an attempt" }
     ]
+  },
+  health: {
+    name: 'Здоровье 🩺',
+    description: 'Симптомы, болезни, состояние',
+    timestamp: 10,
+    items: [
+      { ru: "Иметь сердечный приступ", en: "Have a heart attack" },
+      { ru: "Иметь расстройство желудка", en: "Be vomiting" },
+      { ru: "Массово заболевать / умирать", en: "Drop like flies" },
+      { ru: "Простудиться", en: "Catch a cold" },
+      { ru: "Иметь боль в мышцах", en: "Have aching muscles" },
+      { ru: "Насморк", en: "Running nose" },
+      { ru: "Плохо выглядеть", en: "Look off colour" },
+      { ru: "Чувствовать головокружение", en: "Feel dizzy" },
+      { ru: "Иметь сыпь", en: "Have a rash" },
+      { ru: "Чувствовать недомогание", en: "Be under the weather" },
+      { ru: "Продолжать", en: "Go on" },
+      { ru: "Хрипеть, задыхаться", en: "Wheeze" },
+      { ru: "Поправиться после болезни", en: "Be back on your feet" },
+      { ru: "Высморкаться", en: "Blow the nose" },
+      { ru: "Чувствовать изнеможение", en: "Feel run down" },
+      { ru: "Чихать", en: "Sneeze" },
+      { ru: "Жаловаться на", en: "Complain of" },
+      { ru: "Начать, продолжить", en: "Go ahead with" },
+      { ru: "Мучительная боль", en: "Excruciating pain" },
+      { ru: "Иметь аллергию на", en: "Be allergic to" },
+      { ru: "Оправиться от", en: "Recover from" },
+      { ru: "Быть вовлечённым в", en: "Be involved in" },
+      { ru: "Лечиться от", en: "Treat for" },
+      { ru: "Быть покрытым чем-либо", en: "Be covered in" },
+      { ru: "Острая боль", en: "Severe pain" },
+      { ru: "Футбольная травма", en: "Football injury" },
+      { ru: "Болезненный", en: "Painful" },
+      { ru: "Чудом спастись", en: "Narrow escape" },
+      { ru: "Внутреннее кровотечение", en: "Internal bleeding" },
+      { ru: "Быть без сознания", en: "Be unconscious" },
+      { ru: "Охрипнуть", en: "Sound hoarse" },
+      { ru: "Обсуждать в деталях", en: "Go into" },
+      { ru: "Упасть в обморок / потерять сознание", en: "Faint / lose consciousness" },
+      { ru: "Иметь боль в горле", en: "Have a sore throat" },
+      { ru: "Затекла шея", en: "Have a stiff neck" }
+    ]
   }
 };
