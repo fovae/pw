@@ -290,5 +290,38 @@ const LESSONS = {
       { ru: "Иметь боль в горле", en: "Have a sore throat" },
       { ru: "Затекла шея", en: "Have a stiff neck" }
     ]
+  },
+  city_and_life: {
+    name: 'Город и Жизнь 🏙️',
+    description: 'Условия проживания, городская среда и социальные аспекты',
+    timestamp: 11,
+    items: [
+      { ru: "Делать что-то с неохотой", en: "Be reluctant to" },
+      { ru: "Приёмная семья", en: "Foster home" },
+      { ru: "Диван", en: "Couch" },
+      { ru: "Дрожать от холода", en: "Shiver with cold" },
+      { ru: "Временное жильё", en: "Temporary accommodation" },
+      { ru: "Редкие ночи", en: "Odd nights" },
+      { ru: "Ночлежки", en: "Squats" },
+      { ru: "Заброшенный дом", en: "Abandoned house" },
+      { ru: "Тесная комната", en: "Cramped room" },
+      { ru: "Наркоман", en: "Drug addict" },
+      { ru: "Грязный", en: "Filthy" },
+      { ru: "Душить", en: "Choke" },
+      { ru: "Сводить концы с концами", en: "Make ends meet" },
+      { ru: "Бросать (монету)", en: "Toss" },
+      { ru: "Шикарный, роскошный", en: "Posh" },
+      { ru: "Личность", en: "Identity" },
+      { ru: "Достоинство", en: "Dignity" },
+      { ru: "Порочный круг", en: "Vicious circle" },
+      { ru: "Самооценка", en: "Self-esteem" },
+      { ru: "Быстрорастущий город", en: "Boom town" },
+      { ru: "Город-трущоба", en: "Shanty town" },
+      { ru: "Дом в плохом состоянии", en: "Run-down house" },
+      { ru: "Дом с мебелью", en: "Fully-furnished house" },
+      { ru: "Заброшенный склад", en: "Disused warehouse" },
+      { ru: "Жилой район", en: "Residential area" },
+      { ru: "Пешеходная улица (район)", en: "Pedestrianised street (area)" }
+    ]
   }
 };
