@@ -323,5 +323,38 @@ const LESSONS = {
       { ru: "Жилой район", en: "Residential area" },
       { ru: "Пешеходная улица (район)", en: "Pedestrianised street (area)" }
     ]
+  },
+  oral_dictation: {
+    name: 'Устный диктант 📝',
+    description: 'Идиомы, жилье и описание сельской местности',
+    timestamp: 12,
+    items: [
+      { ru: "Тратить деньги впустую", en: "Throw money down the drain" },
+      { ru: "Парник", en: "Greenhouse" },
+      { ru: "Нуждаться в чем-либо", en: "Be in need of" },
+      { ru: "Завязывать, ремонтировать, украшать", en: "Do up" },
+      { ru: "Иметь крышу над головой", en: "Have a roof over one's head" },
+      { ru: "Легко добраться, быть легкодоступным", en: "Be within easy reach of" },
+      { ru: "Не подлежать ремонту", en: "Be beyond repair" },
+      { ru: "Усадьба", en: "Manor / estate" },
+      { ru: "Быть в плохом состоянии", en: "Be in bad condition" },
+      { ru: "Обходиться без", en: "Do without" },
+      { ru: "Особняк", en: "Mansion" },
+      { ru: "Пристройка", en: "Lodge" },
+      { ru: "Добить, оставить без сил", en: "Do in" },
+      { ru: "Конюшня, стойло", en: "Stable" },
+      { ru: "Сарай", en: "Shed" },
+      { ru: "Ждать помощи от судьбы", en: "Wait for help from fate" },
+      { ru: "Семейная ноша", en: "Family burden" },
+      { ru: "Всеми правдами и неправдами", en: "By hook or by crook" },
+      { ru: "Ворчащий фермер", en: "Grumbling farmer" },
+      { ru: "Изумрудный ландшафт", en: "Emerald landscape" },
+      { ru: "Процветающий", en: "Thriving" },
+      { ru: "Современные удобства", en: "Modern appliance" },
+      { ru: "Предчувствие", en: "Apprehension" },
+      { ru: "Наивность", en: "In innocence" },
+      { ru: "Потомок", en: "Descendant" },
+      { ru: "Принимать как должное", en: "Take for granted" }
+    ]
   }
 };
